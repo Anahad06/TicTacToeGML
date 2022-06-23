@@ -1,4 +1,4 @@
 # TicTacToeGML
 Simple Tic Tac Toe made with GML by Anahad. 
 
-#### Objective
+##### Inspired from the Python one I previously built.
